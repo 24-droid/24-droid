@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Om Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding width="400" src="https://www.bing.com/th/id/OGC.e1f3413bf5036045713341394f617225?pid=1.7&rurl=https%3a%2f%2fgranroyalleigarape.com.br%2fwp-content%2fuploads%2f2021%2f05%2fprogrammer.gif&ehk=wecvkaDrxTVcS4BAWL3ChttAQHghR%2flmgl3kmZvrHSw%3d">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=24-droid&label=Profile%20views&color=0e75b6&style=flat" alt="24-droid" /> </p>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **omsingh060914@gmail.com**
+- 📫 How to reach me **omworks341@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
