@@ -36,6 +36,5 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=24-droid&show_icons=true&locale=en&layout=compact" alt="24-droid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=24-droid&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="24-droid" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=24-droid&show_icons=true&locale=en" alt="24-droid" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=24-droid&" alt="24-droid" /></p>
