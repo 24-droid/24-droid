@@ -12,9 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Om Singh</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding width="400" src="https://www.bing.com/th/id/OGC.e1f3413bf5036045713341394f617225?pid=1.7&rurl=https%3a%2f%2fgranroyalleigarape.com.br%2fwp-content%2fuploads%2f2021%2f05%2fprogrammer.gif&ehk=wecvkaDrxTVcS4BAWL3ChttAQHghR%2flmgl3kmZvrHSw%3d">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h1 align="left">Hi 👋, I'm Om Singh</h1>
+    <h3 align="left">A passionate fullstack developer from India</h3>
+  </div>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" width="380"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=24-droid&label=Profile%20views&color=0e75b6&style=flat" alt="24-droid" /> </p>
 
