@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=24-droid" alt="24-droid" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **Fullstack Development**
-
-- 📫 How to reach me **omworks341@gmail.com**
+- 💼 Web Developer Intern at **SoundSafe.ai**
+- 🧠 Skilled in **MERN Stack**, **Python**, **GraphQL**, and **AI APIs**
+- 🌍 Experienced in working with both **Indian and international startups**, delivering high-quality, production-ready solutions
+- ⚡ Fun fact: I love turning ideas into deployable products 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
