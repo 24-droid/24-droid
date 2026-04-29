@@ -2,21 +2,25 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%" valign="middle">
 
 <h1>Hi 👋, I'm Om Singh</h1>
+
 <h3>Full-Stack Developer | Building AI-powered MVPs & Scalable Products</h3>
 
-- 🚀 I build and ship real-world MVPs (Web + AI)
-- 💼 Worked with international startups & freelance clients  
-- 🧠 Skilled in MERN Stack, Backend Systems & AI integrations  
-- ⚡ Focused on scalable, production-ready applications  
+<ul>
+<li>🚀 I build and ship real-world MVPs (Web + AI)</li>
+<li>💼 Worked with international startups & freelance clients</li>
+<li>🧠 Skilled in MERN Stack, Backend Systems & AI integrations</li>
+<li>⚡ Focused on scalable, production-ready applications</li>
+</ul>
 
 </td>
 
-<td width="40%">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300"/>
+<td width="45%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320"/>
 </td>
+
 </tr>
 </table>
 
