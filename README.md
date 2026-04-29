@@ -1,28 +1,19 @@
 <!-- Profile README -->
 
-<table>
-<tr>
-<td width="55%" valign="middle">
+<h1 align="left">Hi 👋, I'm Om Singh</h1>
 
-<h1>Hi 👋, I'm Om Singh</h1>
+<h3 align="left">Full-Stack Developer | Building AI-powered MVPs & Scalable Products</h3>
 
-<h3>Full-Stack Developer | Building AI-powered MVPs & Scalable Products</h3>
+<p align="left">
+🚀 I build and ship real-world MVPs (Web + AI)<br>
+💼 Worked with international startups & freelance clients<br>
+🧠 Skilled in MERN Stack, Backend Systems & AI integrations<br>
+⚡ Focused on scalable, production-ready applications
+</p>
 
-<ul>
-<li>🚀 I build and ship real-world MVPs (Web + AI)</li>
-<li>💼 Worked with international startups & freelance clients</li>
-<li>🧠 Skilled in MERN Stack, Backend Systems & AI integrations</li>
-<li>⚡ Focused on scalable, production-ready applications</li>
-</ul>
-
-</td>
-
-<td width="45%" align="center" valign="middle">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320"/>
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
